@@ -1,0 +1,3 @@
+com\xmlval\online\Application.class
+com\xmlval\online\service\IbkValidator.class
+com\xmlval\online\controller\FileUploadController.class
