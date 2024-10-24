@@ -2,9 +2,9 @@
 Validation tool for XML Schema Version 1.1
 
 XML Schema Version 1.1 has great capability to be used while implementing complex validation logic in data exhange.
-Since example of implementation example of those XML Schema is rare, so we want to whare some example of the implementasion in java.
+Since example of implementation example of those XML Schema is rare, so we want to share some example of the implementasion in java.
 
-This example project has been deployed at Heroku cloud, please visit https://xml-valtool.herokuapp.com/ to try the Online XML Schema Version 1.1 Valodation.
+This example project has been deployed to Heroku cloud, please visit https://xml-valtool.herokuapp.com/ to try the Online XML Schema Version 1.1 Validation.
 
 Credit to:
 - Marcin Wojtysiak for thymeleaf-bootstrap-upload-file tutorial which used as frontend in this example;
